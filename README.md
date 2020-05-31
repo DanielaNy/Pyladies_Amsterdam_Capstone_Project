@@ -22,3 +22,6 @@ Team's 11 capstone project of Data Analysis Bootcamp 2020 organized by Pyladies 
 3. Create one GitHub repository for your team Capstone project
 4. Perform EDA (Exploratoty Data Analysis) on your dataset with basic visualisations
 5. Make a 5 min presentation about your team findings and be ready to present it online. Add presentation slides to your GitHub repo.
+
+## Data used
+[Mobile Apple Store Data from Kaggle](https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps)
