@@ -5,7 +5,7 @@ Team's 11 capstone project of Data Analysis Bootcamp 2020 organized by Pyladies 
 
 ### Capstnone assignment
 
-[Link to capstnone project assignment - Pyladies Ams](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020/tree/master/Capstone)
+[Link to capstone project assignment - Pyladies Ams](https://github.com/pyladiesams/Bootcamp-Data-Analysis-beginner-apr-may2020/tree/master/Capstone)
 
 ##### Libraries
 
